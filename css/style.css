@@ -14,10 +14,10 @@ body {
 
 .header-container {
     background-image: url(../images/bg-hero-mobile.svg);
-    background-size:auto;
+    background-size: cover;
     background-repeat: no-repeat;
-    /* background-position: center; */
-    /* padding: 2rem 1rem; */
+    box-sizing: border-box;
+    background-position: center;
 }
 
 .header-title-container {
